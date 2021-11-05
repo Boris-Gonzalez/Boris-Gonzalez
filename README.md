@@ -2,8 +2,7 @@
 
 
 ![Boris-Gonzalez GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisGonzalez)
-
-https://github-readme-stats.vercel.app/api?username=Boris-Gonzalez
+[![Boris-Gonzalez GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisGonzalez)](https://github.com/anuraghazra/github-readme-stats)
 
 Puedes Encontrarme 🙋
 - [Twitter](https://twitter.com/BorisGonzale1)
