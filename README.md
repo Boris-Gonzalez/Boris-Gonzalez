@@ -1,9 +1,5 @@
 ### Hola, Me llamo Boris Gonzalez 👋👨‍💻
 
-
-![Boris-Gonzalez GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisGonzalez)
-[![Boris-Gonzalez GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisGonzalez)](https://github.com/anuraghazra/github-readme-stats)
-
 Puedes Encontrarme 🙋
 - [Twitter](https://twitter.com/BorisGonzale1)
 - [Linkedin](https://www.linkedin.com/in/boris-gonz%C3%A1lez-salazar-4b9b871b2/)
